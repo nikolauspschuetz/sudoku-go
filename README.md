@@ -1,2 +1,3 @@
 # sudoku-go
-Goland sudoku solver
+
+Golang sudoku solver
